@@ -36,12 +36,11 @@ Figure 02  Encoder 8 * 3
 
 **Procedure**
 
-/* write all the steps invloved */
+write all the steps invloved 
 
 **PROGRAM**
-```
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
-module encoder_top(din, a, b, c); 
+
+Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 input [0:7] din; 
 output a,b,c; 
 assign a=din[4] | din[5] | din[6] | din[7]; 
