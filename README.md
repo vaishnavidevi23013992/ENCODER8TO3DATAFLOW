@@ -53,6 +53,7 @@ Developed by: VAISHNAVIDEVI V
 
 
 RegisterNumber:212223040230
+```
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 ![5 1 1](https://github.com/vaishnavidevi23013992/ENCODER8TO3DATAFLOW/assets/151864235/77ab02df-9409-484c-8743-dac9650b58e1)
